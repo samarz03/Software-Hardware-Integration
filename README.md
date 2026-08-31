@@ -2,4 +2,8 @@ EXAM 1 Task: Control a Mock HVAC System (represented by the Arduino) to heat/coo
 
 EXAM 2 Task: Control a vehicle, using the UI to input vehicle speed (using PWM) and direction (forward, left, right, reverse) and see obstacles as detected by IR sensors.
 
+HW1: Application that translates Decimal, Hexadecimal, or Binary numbers into one of the other types.
+
 HW2 Task: Allows for the user to control each motor separately, with the arduino using pin analog signals.
+
+Final Task: Arduino code to control an soil sampling device
