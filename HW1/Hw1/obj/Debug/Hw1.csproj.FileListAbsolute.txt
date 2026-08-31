@@ -1,0 +1,10 @@
+C:\Users\skamm\source\repos\Hw1\Hw1\bin\Debug\Hw1.exe.config
+C:\Users\skamm\source\repos\Hw1\Hw1\bin\Debug\Hw1.exe
+C:\Users\skamm\source\repos\Hw1\Hw1\bin\Debug\Hw1.pdb
+C:\Users\skamm\source\repos\Hw1\Hw1\obj\Debug\Hw1.csproj.AssemblyReference.cache
+C:\Users\skamm\source\repos\Hw1\Hw1\obj\Debug\Hw1.Form1.resources
+C:\Users\skamm\source\repos\Hw1\Hw1\obj\Debug\Hw1.Properties.Resources.resources
+C:\Users\skamm\source\repos\Hw1\Hw1\obj\Debug\Hw1.csproj.GenerateResource.cache
+C:\Users\skamm\source\repos\Hw1\Hw1\obj\Debug\Hw1.csproj.CoreCompileInputs.cache
+C:\Users\skamm\source\repos\Hw1\Hw1\obj\Debug\Hw1.exe
+C:\Users\skamm\source\repos\Hw1\Hw1\obj\Debug\Hw1.pdb
