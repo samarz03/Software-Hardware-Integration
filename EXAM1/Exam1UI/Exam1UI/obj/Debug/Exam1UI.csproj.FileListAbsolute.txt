@@ -1,0 +1,10 @@
+C:\Users\skamm\source\repos\Exam1UI\Exam1UI\bin\Debug\Exam1UI.exe.config
+C:\Users\skamm\source\repos\Exam1UI\Exam1UI\bin\Debug\Exam1UI.exe
+C:\Users\skamm\source\repos\Exam1UI\Exam1UI\bin\Debug\Exam1UI.pdb
+C:\Users\skamm\source\repos\Exam1UI\Exam1UI\obj\Debug\Exam1UI.csproj.AssemblyReference.cache
+C:\Users\skamm\source\repos\Exam1UI\Exam1UI\obj\Debug\Exam1UI.Form1.resources
+C:\Users\skamm\source\repos\Exam1UI\Exam1UI\obj\Debug\Exam1UI.Properties.Resources.resources
+C:\Users\skamm\source\repos\Exam1UI\Exam1UI\obj\Debug\Exam1UI.csproj.GenerateResource.cache
+C:\Users\skamm\source\repos\Exam1UI\Exam1UI\obj\Debug\Exam1UI.csproj.CoreCompileInputs.cache
+C:\Users\skamm\source\repos\Exam1UI\Exam1UI\obj\Debug\Exam1UI.exe
+C:\Users\skamm\source\repos\Exam1UI\Exam1UI\obj\Debug\Exam1UI.pdb

@@ -1,0 +1,10 @@
+C:\Users\skamm\source\repos\HW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\skamm\source\repos\HW2\HW2\bin\Debug\HW2.exe
+C:\Users\skamm\source\repos\HW2\HW2\bin\Debug\HW2.pdb
+C:\Users\skamm\source\repos\HW2\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\skamm\source\repos\HW2\HW2\obj\Debug\HW2.Form1.resources
+C:\Users\skamm\source\repos\HW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\skamm\source\repos\HW2\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\skamm\source\repos\HW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\skamm\source\repos\HW2\HW2\obj\Debug\HW2.exe
+C:\Users\skamm\source\repos\HW2\HW2\obj\Debug\HW2.pdb
